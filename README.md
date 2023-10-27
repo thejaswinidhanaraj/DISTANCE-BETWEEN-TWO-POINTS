@@ -26,4 +26,4 @@ print(out)
 
 
 ### RESULT:
-![Alt text](image-1.png)
+Exp completed
